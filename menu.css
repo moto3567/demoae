@@ -57,6 +57,12 @@ body{
 }
 h1{
     text-align: center;
-    color:blueviolet;
+    color:rgb(222, 215, 228);
     background :#000000
+}
+#chuyentab{
+    color:#fff ;
+}
+p{
+    color : #fff;
 }
